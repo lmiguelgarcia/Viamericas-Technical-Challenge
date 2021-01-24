@@ -1,0 +1,13 @@
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Business.deps.json
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Business.dll
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Business.pdb
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Business.AssemblyInfoInputs.cache
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Business.AssemblyInfo.cs
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Business.dll
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Business.pdb
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Data.dll
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.dll
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Data.pdb
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.pdb
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Business.csprojAssemblyReference.cache
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Business\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Business.csproj.CopyComplete

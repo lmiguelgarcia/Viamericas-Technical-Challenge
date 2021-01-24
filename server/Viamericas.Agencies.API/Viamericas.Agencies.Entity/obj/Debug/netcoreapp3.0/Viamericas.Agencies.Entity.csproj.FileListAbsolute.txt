@@ -1,0 +1,8 @@
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Entity\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.deps.json
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Entity\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.dll
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Entity\bin\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.pdb
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Entity\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.AssemblyInfoInputs.cache
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Entity\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.AssemblyInfo.cs
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Entity\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.dll
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Entity\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.pdb
+D:\pruebas empresas\Viamericas\Code\Viamericas.Agencies.API\Viamericas.Agencies.Entity\obj\Debug\netcoreapp3.0\Viamericas.Agencies.Entity.csprojAssemblyReference.cache

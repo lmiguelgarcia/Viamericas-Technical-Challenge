@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Viamericas.Agencies.Data\Viamericas.Agencies.Data.csproj" />
+    <ProjectReference Include="..\Viamericas.Agencies.Entity\Viamericas.Agencies.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
