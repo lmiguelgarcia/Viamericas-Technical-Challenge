@@ -1,4 +1,4 @@
-# Backend  
+# Frontend  
 This project was developed with 
 1. React
 2. Bootstrap
@@ -11,3 +11,8 @@ This project was developed with
 3. To connect the front with the rest api. The apiUrl located in the webpack.config.js file must be changed
 4. Start the application by running npm start from the command line, this will launch a browser displaying the application.
 
+Login
+![alt text](https://i.ibb.co/pXsBdRr/login.png)
+
+List of Agencies
+![alt text](https://i.ibb.co/mDMPgP4/agencias.png)
