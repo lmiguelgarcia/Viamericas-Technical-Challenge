@@ -22,13 +22,13 @@ table {
     margin-bottom: 1px;
   }
   
-  thead button.ascending::after {
+  thead th.ascending::after {
     content: '👇';
     display: inline-block;
     margin-left: 1em;
   }
   
-  thead button.descending::after {
+  thead th.descending::after {
     content: '☝️';
     display: inline-block;
     margin-left: 1em;
