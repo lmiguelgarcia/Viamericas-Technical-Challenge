@@ -3,7 +3,7 @@ This project was developed with
 1. React
 2. Bootstrap
 3. Redux
-```Note: I have no experience developing in React. However I code following some practices and tutorials.```
+
 
 # Instructions to run the API
 1. Install NodeJS and NPM from  https://nodejs.org/en/download/.
