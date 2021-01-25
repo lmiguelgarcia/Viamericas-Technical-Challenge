@@ -35,6 +35,10 @@ namespace Viamericas.Agencies.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
+            {
+                builder.WithOrigins("http://localhost:8080").AllowAnyMethod().AllowAnyHeader();
+            }));
             services.AddControllers();
             #region Entity Framework Dependencies
             services.AddDbContext<ViamericasContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConStr")));
@@ -111,6 +115,7 @@ namespace Viamericas.Agencies.API
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors("ApiCorsPolicy");
             app.UseAuthentication();
             app.UseRouting();
             app.UseAuthorization();
