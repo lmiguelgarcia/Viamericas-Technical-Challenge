@@ -13,7 +13,8 @@ This project was developed with
 1. Open the solution using visual studio 2019 
 2. Change the connection string to the database, this setting is in the appsettings.json file
 3. Open the package manager console and run the following command that allows you to create the database model: Update-Database
-3. When you run the application, you will get the swagger UI as shown below:
+4. To enable CORS in the rest api. The connection of the front url must be allowed. Therefore, open the Startup class file and change the following line of code builder.WithOrigins ("http://localhost:8080").AllowAnyMethod().AllowAnyHeader();
+5. When you run the application, you will get the swagger UI as shown below:
 http://{ip}:{port}/swagger/index.html
 ![alt text](https://i.ibb.co/z2LfC77/autenticacion.png)
 ```Note: In order to consume the services of Agencies, the token that is generated in the authentication endpoint (/ api / v1 / Authentication / Login) must be sent. For that, you must click on the Authorize button and add this token under the Value box..```
